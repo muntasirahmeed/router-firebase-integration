@@ -9,3 +9,8 @@
 .header{
 margin-top: 50px;
 }
+.header nav span{
+    margin-right: 10px;
+    color: rgb(204, 40, 92);
+    font-weight: bold;
+}
